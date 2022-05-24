@@ -1,0 +1,3 @@
+Algoritmo segun
+	
+FinAlgoritmo
